@@ -1,6 +1,6 @@
 # Write your code below this line 
 bill = input("What are your parking costs?")
-bill1 = int(bill)
+bill1 = float(bill)
 people = input("How many people pay the bill?")
 people1 = int(people)
 #print(people)
